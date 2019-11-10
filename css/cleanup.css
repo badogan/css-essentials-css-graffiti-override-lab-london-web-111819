@@ -14,7 +14,11 @@
 }
 
 
-#wall .parent div {
+#wall .parent div #tag-4 {
+  display:none;
+}
+
+#wall .parent div .slick {
   display:none;
 }
 
